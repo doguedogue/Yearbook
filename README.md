@@ -2,7 +2,7 @@
 
 Do you want to create a collage from a GitHub group?
 
-Check this out!
+Check this out! https://yearbook-nodejs.herokuapp.com/
 
 <a href="https://yearbook-nodejs.herokuapp.com/" title="Yearbook LaunchX May 2022">
   <img align="center" src="./images/yearbook-nodejs.png" />
