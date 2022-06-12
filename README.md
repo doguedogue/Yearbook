@@ -1,4 +1,4 @@
-# Yearbook 👩‍🦰👨‍🦱👩‍🦱👦🧑
+# Yearbook 👩‍🦰👨‍🦱👩‍🦱👦🧑👨‍🎓
 
 Do you want to create a collage from a GitHub group? contact me
 
