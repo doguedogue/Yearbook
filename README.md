@@ -1,6 +1,6 @@
 # Yearbook 👩‍🦰👨‍🦱👩‍🦱👦🧑👨‍🎓
 
-Do you want to create a collage from a GitHub group? contact me
+Do you want to create a collage from a GitHub group? contact me!
 
 Check this out! https://yearbook-nodejs.herokuapp.com/
 
